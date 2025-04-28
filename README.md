@@ -8,23 +8,23 @@ The widespread adoption of electric vehicles (EVs) represents a significant step
  
 ## Methodology
 
-* Cluster Analysis: Counties were grouped based on average EV age, charging station density, and EV adoption rates, revealing four distinct clusters with unique demographic and economic characteristics.
+* **Cluster Analysis**: Counties were grouped based on average EV age, charging station density, and EV adoption rates, revealing four distinct clusters with unique demographic and economic characteristics.
 
-* Regression Analysis: An Ordinary Least Squares (OLS) regression was conducted to quantify the relationships between EV adoption and variables such as income, education, age, race, creditworthiness, fuel type, electric range, and vehicle type.
+* **Regression Analysis**: An Ordinary Least Squares (OLS) regression was conducted to quantify the relationships between EV adoption and variables such as income, education, age, race, creditworthiness, fuel type, electric range, and vehicle type.
 
 ## Key Findings
 
-* Urban Advantage: Urban counties with higher median household incomes, higher percentage of the population with at least a college degree, and population densities showed the highest EV adoption rates, even without the highest charging station densities.
+* **Urban Advantage**: Urban counties with higher median household incomes, higher percentage of the population with at least a college degree, and population densities showed the highest EV adoption rates, even without the highest charging station densities.
 
-* Rural Challenges: Rural counties with lower income levels, older populations, and lower levels of education showed minimal adoption, despite sometimes having relatively dense charging infrastructure.
+* **Rural Challenges**: Rural counties with lower income levels, older populations, and lower levels of education showed minimal adoption, despite sometimes having relatively dense charging infrastructure.
 
-* Infrastructure vs. Socioeconomics: Charging station density was not a statistically significant predictor of EV adoption, highlighting that infrastructure alone does not drive adoption rates. Socioeconomic factors, particularly income, education, and creditworthiness, play a more important role.
+* **Infrastructure vs. Socioeconomics**: Charging station density was not a statistically significant predictor of EV adoption, highlighting that infrastructure alone does not drive adoption rates. Socioeconomic factors, particularly income, education, and creditworthiness, play a more important role.
 
 ## Recommendations
 
-* Policy Focus: Governments should prioritize investments in suburban areas (e.g., Cluster 1), where favorable demographics and moderate EV adoption indicate strong growth potential. In rural areas (Clusters 0 and 3), efforts should focus on public education campaigns and financial assistance programs to address underlying socioeconomic barriers.
+* **Policy Focus**: Governments should prioritize investments in suburban areas (e.g., Cluster 1), where favorable demographics and moderate EV adoption indicate strong growth potential. In rural areas (Clusters 0 and 3), efforts should focus on public education campaigns and financial assistance programs to address underlying socioeconomic barriers.
 
-* Manufacturer Strategy: EV manufacturers should continue targeting urban counties (Cluster 2) for premium offerings, while focusing on affordable models and community engagement in suburban areas (Cluster 1) to stimulate adoption.
+* **Manufacturer Strategy**: EV manufacturers should continue targeting urban counties (Cluster 2) for premium offerings, while focusing on affordable models and community engagement in suburban areas (Cluster 1) to stimulate adoption.
 
 ## Limitations
 
@@ -34,7 +34,7 @@ The widespread adoption of electric vehicles (EVs) represents a significant step
 
 * Local grants and incentives were not included in the analysis, which could significantly impact EV adoption rates.
 
-##Future Work
+## Future Work
 
 * Incorporate more detailed data, potentially at the zip-code level, to capture localized trends.
 
