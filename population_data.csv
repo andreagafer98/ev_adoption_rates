@@ -1,0 +1,40 @@
+"year","fips","pop2020","pop2024","state","stateCode","growthSince2020","name","county","slug","landArea","density","rank","densityMi","areaMi"
+2024,53033,2274282,2277449,"Washington","WA",0.0013925273998562915,"King County","King County","washington/king-county",2116,1076.2991493383743,1,1076.2991493383743,2116
+2024,53053,923589,930913,"Washington","WA",0.007929934202334676,"Pierce County","Pierce County","washington/pierce-county",1668,558.1013189448441,2,558.1013189448441,1668
+2024,53061,829933,849070,"Washington","WA",0.023058487853838905,"Snohomish County","Snohomish County","washington/snohomish-county",2087,406.83756588404407,3,406.83756588404407,2087
+2024,53063,541175,553170,"Washington","WA",0.022164734143299336,"Spokane County","Spokane County","washington/spokane-county",1764,313.58843537414964,4,313.58843537414964,1764
+2024,53011,505338,525563,"Washington","WA",0.04002271746830832,"Clark County","Clark County","washington/clark-county",628,836.8837579617834,5,836.8837579617834,628
+2024,53067,295998,299367,"Washington","WA",0.011381833661038288,"Thurston County","Thurston County","washington/thurston-county",723,414.0622406639004,6,414.0622406639004,723
+2024,53035,275823,277503,"Washington","WA",0.006090862618418402,"Kitsap County","Kitsap County","washington/kitsap-county",395,702.5392405063291,7,702.5392405063291,395
+2024,53077,256733,256267,"Washington","WA",-0.0018151153143538545,"Yakima County","Yakima County","washington/yakima-county",4295,59.66635622817229,8,59.66635622817229,4295
+2024,53073,227449,233240,"Washington","WA",0.025460652717752108,"Whatcom County","Whatcom County","washington/whatcom-county",2108,110.64516129032258,9,110.64516129032258,2108
+2024,53005,207419,217609,"Washington","WA",0.04912761126029919,"Benton County","Benton County","washington/benton-county",1700,128.00529411764705,10,128.00529411764705,1700
+2024,53057,129902,131512,"Washington","WA",0.012393958522578519,"Skagit County","Skagit County","washington/skagit-county",1730,76.01849710982658,11,76.01849710982658,1730
+2024,53015,111014,113664,"Washington","WA",0.02387086313437936,"Cowlitz County","Cowlitz County","washington/cowlitz-county",1141,99.61787905346188,12,99.61787905346188,1141
+2024,53025,99441,103776,"Washington","WA",0.0435936887199444,"Grant County","Grant County","washington/grant-county",2680,38.722388059701494,13,38.722388059701494,2680
+2024,53021,97150,99486,"Washington","WA",0.024045290787441997,"Franklin County","Franklin County","washington/franklin-county",1242,80.10144927536231,14,80.10144927536231,1242
+2024,53041,82553,86951,"Washington","WA",0.053274865843760955,"Lewis County","Lewis County","washington/lewis-county",2403,36.18435289221806,15,36.18435289221806,2403
+2024,53029,86998,85852,"Washington","WA",-0.013172716614175073,"Island County","Island County","washington/island-county",208,412.75,16,412.75,208
+2024,53007,79238,79956,"Washington","WA",0.009061308967919457,"Chelan County","Chelan County","washington/chelan-county",2921,27.37281752824375,17,27.37281752824375,2921
+2024,53009,77367,77548,"Washington","WA",0.0023394987526981215,"Clallam County","Clallam County","washington/clallam-county",1739,44.59344450833812,18,44.59344450833812,1739
+2024,53027,75855,77539,"Washington","WA",0.02220025047788554,"Grays Harbor County","Grays Harbor County","washington/grays-harbor-county",1901,40.788532351394004,19,40.788532351394004,1901
+2024,53045,66034,68607,"Washington","WA",0.038964775721598066,"Mason County","Mason County","washington/mason-county",960,71.465625,20,71.465625,960
+2024,53071,62623,61283,"Washington","WA",-0.021397888954537425,"Walla Walla County","Walla Walla County","washington/walla-walla-county",1270,48.25433070866142,21,48.25433070866142,1270
+2024,53065,46591,49391,"Washington","WA",0.060097443712304965,"Stevens County","Stevens County","washington/stevens-county",2477,19.93984658861526,22,19.93984658861526,2477
+2024,53075,47807,48445,"Washington","WA",0.013345325998284752,"Whitman County","Whitman County","washington/whitman-county",2159,22.43862899490505,23,22.43862899490505,2159
+2024,53037,44599,45894,"Washington","WA",0.029036525482634135,"Kittitas County","Kittitas County","washington/kittitas-county",2297,19.979973878972572,24,19.979973878972572,2297
+2024,53017,43029,45373,"Washington","WA",0.054474889028329754,"Douglas County","Douglas County","washington/douglas-county",1819,24.94392523364486,25,24.94392523364486,1819
+2024,53047,42139,43964,"Washington","WA",0.04330904862478935,"Okanogan County","Okanogan County","washington/okanogan-county",5266,8.348651728066844,26,8.348651728066844,5266
+2024,53031,33061,33858,"Washington","WA",0.024106953812649268,"Jefferson County","Jefferson County","washington/jefferson-county",1804,18.76829268292683,27,18.76829268292683,1804
+2024,53049,23495,24305,"Washington","WA",0.03447542030219197,"Pacific County","Pacific County","washington/pacific-county",933,26.05037513397642,28,26.05037513397642,933
+2024,53039,22814,23875,"Washington","WA",0.04650653107740865,"Klickitat County","Klickitat County","washington/klickitat-county",1872,12.753739316239317,29,12.753739316239317,1872
+2024,53003,22324,22562,"Washington","WA",0.010661171833004746,"Asotin County","Asotin County","washington/asotin-county",636,35.4748427672956,30,35.4748427672956,636
+2024,53001,20607,20742,"Washington","WA",0.006551171931867827,"Adams County","Adams County","washington/adams-county",1925,10.775064935064934,31,10.775064935064934,1925
+2024,53055,17826,18460,"Washington","WA",0.03556602715135204,"San Juan County","San Juan County","washington/san-juan-county",174,106.0919540229885,32,106.0919540229885,174
+2024,53051,13502,14584,"Washington","WA",0.08013627610724328,"Pend Oreille County","Pend Oreille County","washington/pend-oreille-county",1400,10.417142857142856,33,10.417142857142856,1400
+2024,53059,12041,12825,"Washington","WA",0.0651108711901005,"Skamania County","Skamania County","washington/skamania-county",1658,7.735223160434258,34,7.735223160434258,1658
+2024,53043,10928,11863,"Washington","WA",0.08556002928257689,"Lincoln County","Lincoln County","washington/lincoln-county",2311,5.133275638251839,35,5.133275638251839,2311
+2024,53019,7198,7526,"Washington","WA",0.04556821339260897,"Ferry County","Ferry County","washington/ferry-county",2203,3.41625056740808,36,3.41625056740808,2203
+2024,53069,4448,4842,"Washington","WA",0.08857913669064743,"Wahkiakum County","Wahkiakum County","washington/wahkiakum-county",263,18.4106463878327,37,18.4106463878327,263
+2024,53013,3949,4080,"Washington","WA",0.03317295517852625,"Columbia County","Columbia County","washington/columbia-county",869,4.695051783659379,38,4.695051783659379,869
+2024,53023,2294,2369,"Washington","WA",0.032693984306887636,"Garfield County","Garfield County","washington/garfield-county",711,3.3319268635724333,39,3.3319268635724333,711
