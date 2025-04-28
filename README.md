@@ -1,18 +1,18 @@
 # ev_adoption_rates
 
-#EV Adoption Rates: Cluster and Regression Analysis
+# EV Adoption Rates: Cluster and Regression Analysis
 
-##Project Overview
+## Project Overview
 
 The widespread adoption of electric vehicles (EVs) represents a significant step toward reducing greenhouse gas emissions and achieving long-term sustainability goals. As governments and private stakeholders invest in supporting infrastructure and policy incentives, it is essential to understand the demographic, economic, and infrastructural factors that influence EV adoption at the regional level. This project analyzes EV adoption patterns across Washington State’s counties using both cluster and regression analysis.
  
-##Methodology
+## Methodology
 
 * Cluster Analysis: Counties were grouped based on average EV age, charging station density, and EV adoption rates, revealing four distinct clusters with unique demographic and economic characteristics.
 
 * Regression Analysis: An Ordinary Least Squares (OLS) regression was conducted to quantify the relationships between EV adoption and variables such as income, education, age, race, creditworthiness, fuel type, electric range, and vehicle type.
 
-##Key Findings
+## Key Findings
 
 * Urban Advantage: Urban counties with higher median household incomes, higher percentage of the population with at least a college degree, and population densities showed the highest EV adoption rates, even without the highest charging station densities.
 
@@ -20,13 +20,13 @@ The widespread adoption of electric vehicles (EVs) represents a significant step
 
 * Infrastructure vs. Socioeconomics: Charging station density was not a statistically significant predictor of EV adoption, highlighting that infrastructure alone does not drive adoption rates. Socioeconomic factors, particularly income, education, and creditworthiness, play a more important role.
 
-##Recommendations
+## Recommendations
 
 * Policy Focus: Governments should prioritize investments in suburban areas (e.g., Cluster 1), where favorable demographics and moderate EV adoption indicate strong growth potential. In rural areas (Clusters 0 and 3), efforts should focus on public education campaigns and financial assistance programs to address underlying socioeconomic barriers.
 
 * Manufacturer Strategy: EV manufacturers should continue targeting urban counties (Cluster 2) for premium offerings, while focusing on affordable models and community engagement in suburban areas (Cluster 1) to stimulate adoption.
 
-##Limitations
+## Limitations
 
 * The analysis is based on county-level averages, which may overlook intra-county variations.
 
